@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Undergrad and Enthusiast
 -----------------------------------------
 
-Hey there! I'm Achal Bajpai, a second-year Computer Science undergrad at SRMIST Kattankulathur, specializing in Big Data Analytics. I'm passionate about web development and problem-solving. Check out my projects to see my coding journey, and let's connect to collaborate, learn, and contribute to the tech community!
+Hey there! I'm Achal Bajpai, a second-year Computer Science undergrad specializing in Big Data Analytics. I'm passionate about web development and problem-solving. Check out my projects to see my coding journey, and let's connect to collaborate, learn, and contribute to the tech community!
 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-website-cp.vercel.app/)
 * ✉️  You can contact me at [axhalb05@gmail.com](mailto:axhalb05@gmail.com)

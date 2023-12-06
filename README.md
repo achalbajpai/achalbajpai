@@ -13,6 +13,13 @@ Hey there! I'm Achal Bajpai, a second-year Computer Science undergrad specializi
 <a href="https://www.x.com/axhaltwts" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/axhaltwts?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
 /></a>
+<a href="https://leetcode.com/achalbajpai" target="_blank" rel="noreferrer"><img 
+src="https://img.shields.io/badge/LeetCode-Follow-green?style=for-the-badge&logo=leetcode&labelColor=1c1917&color=facc15" alt="LeetCode Follow Badge" 
+/></a>
+<a href="https://www.linkedin.com/in/achal-bajpai" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=1c1917&color=facc15" alt="LinkedIn Connect Badge" 
+/></a>
+
 
 ### Skills
 

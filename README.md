@@ -31,7 +31,5 @@ src="https://img.shields.io/twitter/follow/axhaltwts?logo=twitter&style=for-the-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/achalbajpai"><img src="https://github-readme-stats.vercel.app/api?username=achalbajpai&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="achalbajpai's GitHub stats" /></a>
-
 <a href="http://www.github.com/achalbajpai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=achalbajpai&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/achalbajpai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achalbajpai&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

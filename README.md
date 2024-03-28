@@ -7,8 +7,8 @@ Computer Science Undergrad and Enthusiast
 Hey there! I'm Achal Bajpai, a second-year Computer Science undergrad specializing in Big Data Analytics. I thrive on incorporating new technologies into my projects and consider learning a vital aspect of my journey. My goal is to deliver top-notch code quality and a smooth coding experience.
 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-website-cp.vercel.app/)
-* ✉️  You can contact me at [axhalb05@gmail.com](mailto:achalbajpai2004@gmail.com)
-* 🧠  I'm learning Full Stack Development (MERN Stack and DevOps etc) and solving DSA.
+* ✉️  You can contact me at [achalbajpai2004@gmail.com](mailto:achalbajpai2004@gmail.com)
+* 🧠  I'm learning Full Stack Development (MERN Stack and DevOps etc) 
 
 <a href="https://www.twitter.com/axhaltwts" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/axhaltwts?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917" alt="Twitter Follow Badge" />

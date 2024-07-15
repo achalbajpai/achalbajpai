@@ -4,7 +4,7 @@ Hi ! My name is Achal Bajpai ! [](https://user-images.githubusercontent.com/1835
 Computer Science Undergrad and Enthusiast
 -----------------------------------------
 
-Hey there! I'm Achal Bajpai, a second-year Computer Science undergrad specializing in Big Data Analytics. I thrive on incorporating new technologies into my projects and consider learning a vital aspect of my journey. My goal is to deliver top-notch code quality and a smooth coding experience.
+Hey there! I'm Achal Bajpai, a prefinal-year Computer Science undergrad specializing in Big Data Analytics. I thrive on incorporating new technologies into my projects and consider learning a vital aspect of my journey. My goal is to deliver top-notch code quality and a smooth coding experience.
 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-website-cp.vercel.app/)
 * ✉️  You can contact me at [achalbajpai2004@gmail.com](mailto:achalbajpai2004@gmail.com)
@@ -26,10 +26,10 @@ src="https://img.shields.io/badge/LeetCode-Follow-green?style=for-the-badge&logo
 <a href="http://www.github.com/achalbajpai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=achalbajpai&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## 🛠 Technologies & Tools
-- **Languages:** Python, C, Java, CPP,  JavaScript
+- **Languages:** 
 - **Web Technologies:**  JavaScript frameworks and libraries
 - **Mobile Development:** 
-- **Databases:** NoSQL 
+- **Databases:** 
 - **DevOps Tools:** Docker
 - **Version Control and Operating Systems:** Git / GitHub / GitLab, Linux server environment , MacOS 
 - **Backend Operations:** 

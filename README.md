@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="http://portfolio-website-cp.vercel.app/">
+  <a href="https://achalbajpai.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:achalbajpai2004@gmail.com">

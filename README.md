@@ -1,27 +1,95 @@
-Hi ! My name is Achal Bajpai ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-====================================================================================================================================
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Achal+Bajpai!;Computer+Sc.+Undergrad;Innovator+%26+Developer" alt="Typing SVG" />
+</div>
 
-Computer Science Undergrad and Enthusiast
------------------------------------------
+<p align="center">
+  <a href="http://portfolio-website-cp.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:achalbajpai2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/achal-bajpai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/axhaltwts">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
-Hey there! I'm Achal Bajpai, a prefinal-year Computer Science undergrad specializing in Big Data Analytics. I thrive on incorporating new technologies into my projects and consider learning a vital aspect of my journey. My goal is to deliver top-notch code quality and a smooth coding experience.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achalbajpai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/achalbajpai?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/achalbajpai?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
-* 🖥️  See my portfolio at [My Portfolio](http://portfolio-website-cp.vercel.app/)
-* ✉️  You can contact me at [achalbajpai2004@gmail.com](mailto:achalbajpai2004@gmail.com)
-* 🧠  I'm learning Full Stack Development (MERN Stack and DevOps etc) 
+<p align="center">
+  <b>Computer Science student | Open for Oppurtunities</b>
+</p>
 
-<a href="https://www.twitter.com/axhaltwts" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/axhaltwts?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917" alt="Twitter Follow Badge" />
-</a>
-<a href="https://leetcode.com/achalbajpai" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/badge/LeetCode-Follow-green?style=for-the-badge&logo=leetcode&labelColor=1c1917&color=facc15" alt="LeetCode Follow Badge" 
-/></a>
-<a href="https://www.linkedin.com/in/achal-bajpai" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=1c1917&color=facc15" alt="LinkedIn Connect Badge" 
-/></a>
+<!-- About Me Section -->
+<details>
+  <summary><b>🚀 About Me</b></summary>
+  <br/>
+  <p>
+    I'm a prefinal-year Computer Science Engineering student with a passion for innovation and technology. My goal is to create impactful solutions and contribute to cutting-edge projects.
+  </p>
+  <ul>
+    <li>👯 I'm looking to collaborate on <b>Open Source Projects</b></li>
+    <li>💬 Learning - Learning - Learning </b></li>
+  </ul>
+</details>
 
-## 📈 GitHub Stats
+<!-- Skills Section -->
+<details>
+  <summary><b>🛠️ Skills</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,mongodb,git,docker,aws" />
+  </p>
+</details>
 
-<a href="http://www.github.com/achalbajpai"><img src="https://github-readme-stats.vercel.app/api?username=achalbajpai&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="achalbajpai's GitHub stats" /></a>
-<a href="http://www.github.com/achalbajpai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=achalbajpai&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- GitHub Stats Section -->
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=achalbajpai&show_icons=true&theme=radical" alt="Achal's GitHub stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=achalbajpai&theme=radical" alt="Achal's GitHub streak" />
+  </p>
+</details>
 
+<!-- Top Languages Section -->
+<details>
+  <summary><b>📈 Top Languages</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achalbajpai&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</details>
+
+<!-- Contribution Graph Section -->
+<details>
+  <summary><b>🔥 Contribution Graph</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achalbajpai&theme=radical" alt="Contribution Graph" />
+  </p>
+</details>
+
+<!-- GitHub Trophies Section -->
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=achalbajpai&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </p>
+</details>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>

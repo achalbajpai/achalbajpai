@@ -1,9 +1,12 @@
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Achal+Bajpai!;Computer+Sc.+Undergrad;Innovator+%26+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Achal+Bajpai!;Computer+Sc.+Undergrad;Developer" alt="Typing SVG" />
 </div>
 
+
 <p align="center">
-  <a href="https://achalbajpai.vercel.app/">
+  <a href="https://achal-bajpai.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:achalbajpai2004@gmail.com">
@@ -17,16 +20,22 @@
   </a>
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=achalbajpai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/achalbajpai?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/achalbajpai?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
+<img width="1076" alt="Screenshot 2025-01-03 at 11 28 05 PM" src="https://github.com/user-attachments/assets/cbfdcbe9-936a-4f2d-b2d0-4a9f84150c2f" />
+
+<br> 
+
 <p align="center">
-  <b>Computer Science student | Open for Oppurtunities</b>
+  <b>I love to build scalable web applications | Open for Oppurtunities</b>
 </p>
 
+<br> 
 <!-- About Me Section -->
 <details>
   <summary><b>🚀 About Me</b></summary>

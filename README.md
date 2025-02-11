@@ -4,31 +4,14 @@
 
 <br> 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=50&pause=1000&color=F70000&width=435&height=90&lines=Fullstack+Web+Developer+;AI%2FML+Enthusiast+;I+love+to+build+scalable+apps;Open+for+Opportunities+" alt="Typing SVG" /></a>
 </div>
 
+  
 <p align="center">
   <!-- Portfolio -->
   <a href="https://achal-bajpai.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSIyIiByeT0iMiI+PC9yZWN0PjxsaW5lIHgxPSIzIiB5MT0iOSIgeDI9IjIxIiB5Mj0iOSI+PC9saW5lPjxsaW5lIHgxPSI5IiB5MT0iMjEiIHgyPSI5IiB5Mj0iOSI+PC9saW5lPjwvc3ZnPg==" alt="Portfolio" />
   </a>
-  
-  <!-- Email -->
-  <a href="mailto:achalbajpai2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCw0aDEyYzEuMSwwLDIsMC45LDIsMnYxMmMwLDEuMS0wLjksMi0yLDJINGMtMS4xLDAtMi0wLjktMi0yVjZDMiw0LjksMi45LDQsNCw0eiI+PC9wYXRoPjxwb2x5bGluZSBwb2ludHM9IjIyLDYgMTIsMTMgMiw2Ij48L3BvbHlsaW5lPjwvc3ZnPg==" alt="Email" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/achal-bajpai">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTYgOGE2IDYgMCAwIDEgNiA2djdoLTR2LTdhMiAyIDAgMCAwLTItMiAyIDIgMCAwIDAtMiAydjdoLTR2LTdhNiA2IDAgMCAxIDYtNnoiPjwvcGF0aD48cmVjdCB4PSIyIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiI+PC9yZWN0PjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIj48L2NpcmNsZT48L3N2Zz4=" alt="LinkedIn" />
-  </a>
-
-  <!-- Twitter/X -->
-  <a href="https://twitter.com/axhaltwts">
-    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMjIgNGMwIDAtMiAxLTMuNSAxLjVDMTcuNSA0IDEzLjUgMi41IDEyIDYuNWMtMiA0LjUtMyA2LTQgNkM2IDEyLjUgMiAxMyAyIDEzcy0xIDEgMiAyYzIgMC41IDQgMSA2IDNzNCAyIDYgMmMxIDAgMy0xIDQtNWwxLTRjMS0yIDQtMyA0LTMiPjwvcGF0aD48L3N2Zz4=" alt="Twitter" />
-  </a>
-  
-<p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=achalbajpai&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
   &nbsp;
@@ -42,12 +25,31 @@
     <img src="https://img.shields.io/github/stars/achalbajpai?style=for-the-badge&logo=star&logoColor=white&labelColor=1c1917&color=0891b2" alt="Total Stars" />
   </a>
   &nbsp;
-  <!-- Total Contributions -->
-  <a href="https://github.com/achalbajpai">
-    <img src="https://img.shields.io/github/commit-activity/w/achalbajpai/achalbajpai?style=for-the-badge&logo=github&logoColor=white&labelColor=1c1917&color=0891b2" alt="Weekly Contributions" />
+
+</p>
+</p>
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://achal-bajpai.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:achalbajpai2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/achal-bajpai">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <!-- Twitter/X -->
+  <a href="https://twitter.com/axhaltwts">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
-</p>
+
 <!-- About Me Section -->
 <details>
   <summary><b>🚀 About Me</b></summary>
@@ -81,7 +83,7 @@
 </details>
 
 <!-- GitHub Statistics Section -->
-<details open>
+<details>
   <summary><b>📊 GitHub Statistics</b></summary>
   <div align="center">
     <h4>💫 Overall Stats</h4>
@@ -185,6 +187,7 @@
     </picture>
   </div>
 </details>
+
 
 <br/>
 

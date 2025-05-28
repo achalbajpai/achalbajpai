@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-achalbajpai&color=orange)
 
-![image](https://github.com/user-attachments/assets/fa09d996-c497-4b46-b820-d24c1ab4c6d2)
+![image](https://github.com/user-attachments/assets/1a9eb7db-ead8-4d97-9216-4425bf16138d)
 
 <samp>
   <a href="https://achal.tech/">portfolio</a>  •

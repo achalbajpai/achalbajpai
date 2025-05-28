@@ -4,8 +4,9 @@
 
 <samp>
   <a href="https://achal.tech/">portfolio</a>  •
+  <a href="https://portfolio.achal.tech/">resume</a>  •
   <a href="https://www.linkedin.com/in/achal-bajpai/">linkedin</a>  •
-  <a href="https://x.com/axhaltwts/">twitter</a>
+  <a href="https://x.com/axhaltwts/">x/twitter</a>
 </samp>
 
 <br>

@@ -9,11 +9,10 @@
 </td>
 <td width="42%" valign="middle">
 
-**[achal.works →](https://achal.works/)**
+**portfolio website -> [https://achal.works/](https://achal.works/)**
 
 - built **multiple(30+) projects** across mostly web apps , some ai agents, few ml, and devtools
-  <details><summary>past work</summary>happy to share past hacks and early builds on request</details>
-- usually deep in open source or shipping at a hackathon
+  <details><summary>past work</summary>happy to share past hacks(yc events etc.) and early builds on request</details>
 - mail me - [achalbajpaiw@gmail.com](mailto:achalbajpaiw@gmail.com)
 
 </td>
